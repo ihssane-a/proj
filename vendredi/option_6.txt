@@ -1,0 +1,4 @@
+équipe1; score1;équipe1;score1
+maroc/5/Sénégal/7
+Sénégal/0/Tunisie/ 9
+Nigeria/4/Egypte/1

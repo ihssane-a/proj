@@ -1,0 +1,4 @@
+équipe1; score1;équipe1;score1
+maroc/20/Egypte/50
+Sénégal/1/Tunisie/ 3
+Nigeria/7/Côte d'Ivoire/0
